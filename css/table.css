@@ -1,0 +1,25 @@
+.table {
+    font-family: "Roboto", sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table__cell {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+.table__caption {
+    caption-side: top;
+    text-align: left;
+    font-weight: bold;
+}
+
+.table__header {
+    background-color: rgba(255, 255, 0, 0.815);
+}
+
+.table__row:hover {
+    background-color: rgb(141, 53, 53);
+}

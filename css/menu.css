@@ -1,0 +1,28 @@
+.menu {
+    border: 5px solid rgb(0, 0, 0);
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 0, 0.815);
+    text-align: center;
+    margin: auto;
+}
+
+.menu__item {
+    list-style: none;
+    color: red;
+    display: inline;
+    margin: 0px 20px;
+}
+
+.menu__Element {
+    list-style: none;
+    padding-left: 5px;
+}
+
+.menu__link {
+    background-color: rgba(255, 255, 255, 0.842);
+    padding: 10px;
+    color: rgb(0, 17, 255);
+    font-weight: 700;
+    border-radius: 10px;
+}
